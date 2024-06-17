@@ -1,0 +1,132 @@
+.edit-list-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.edit-list-container h2 {
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    display: flex;
+    justify-content: center;.edit-list-container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2rem;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        background-color: #f9f9f9;
+    }
+    
+    .edit-list-container h2 {
+        font-weight: bold;
+        margin-bottom: 1.5rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .edit-list-container .delete-icon {
+        margin-left: 1rem;
+        font-size: 1.2rem;
+        cursor: pointer;
+        color: #ff0000;
+    }
+    
+    .edit-list-container .form-control {
+        padding: 0.75rem;
+        font-size: 1rem;
+    }
+    
+    .edit-list-container .btn {
+        padding: 0.5rem 1.5rem;
+        font-size: 1rem;
+    }
+    
+    .edit-list-container .btn-outline-primary {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto;
+    }
+    
+    .edit-list-container .btn-outline-primary .fa-plus {
+        margin-right: 0.5rem;
+    }
+    
+    .term-group {
+        border: 1px solid #ddd;
+        padding: 1rem;
+        border-radius: 8px;
+        background-color: #fff;
+        position: relative;
+    }
+    
+    .arrow-icon {
+        color: #e5de00;
+        cursor: pointer;
+    }
+    
+    .delete-icon {
+        color: #ff0000;
+        cursor: pointer;
+    }
+    
+    .term-group .form-control {
+        resize: none;
+    }
+    
+    align-items: center;
+}
+
+.edit-list-container .delete-icon {
+    margin-left: 1rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+    color: #ff0000;
+}
+
+.edit-list-container .form-control {
+    padding: 0.75rem;
+    font-size: 1rem;
+}
+
+.edit-list-container .btn {
+    padding: 0.5rem 1.5rem;
+    font-size: 1rem;
+}
+
+.edit-list-container .btn-outline-primary {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.edit-list-container .btn-outline-primary .fa-plus {
+    margin-right: 0.5rem;
+}
+
+.term-group {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    border-radius: 8px;
+    background-color: #fff;
+    position: relative;
+}
+
+.arrow-icon {
+    color: #e5de00;
+    cursor: pointer;
+}
+
+.delete-icon {
+    color: #ff0000;
+    cursor: pointer;
+}
+
+.term-group .form-control {
+    resize: none;
+}

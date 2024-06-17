@@ -1,0 +1,16 @@
+.home-container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.custom-heading {
+    color: #007bff;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+}
+
+hr {
+    border: 1px solid #007bff;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}

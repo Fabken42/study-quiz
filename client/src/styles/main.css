@@ -1,0 +1,17 @@
+.bookmarkIconFavourited {
+    color: #0d6efd;
+    transition: color 0.25s ease-in-out;
+}
+
+.bookmarkIconFavourited:hover {
+    color: #0b60e0;
+}
+
+.bookmarkIconNotFavourited {
+    color: #6c757d;
+    transition: color 0.25s ease-in-out;
+}
+
+.bookmarkIconNotFavourited:hover {
+    color: #495057
+}
