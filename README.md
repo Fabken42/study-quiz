@@ -2,13 +2,13 @@
 
 Study Quiz é um site onde os usuários podem criar e visualizar listas de termos para estudo.
 
-## Link
-
-https://study-quiz.onrender.com
-
 ## Visão Geral
 
 O Study Quiz é um site desenvolvido usando MERN stack (MongoDB, Express.js, React.js e Node.js). Ele permite que os usuários criem e visualizem listas de termos, em que cada termo contém definição, lembrete e status.
+
+## Link
+
+https://study-quiz.onrender.com
 
 ## Recursos Principais
 
